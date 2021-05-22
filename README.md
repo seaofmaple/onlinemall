@@ -1,4 +1,4 @@
-# onlinemall
+# onlinemall一个基于vue开发的类似与淘宝购物的一个在线网站
 
 ## Project setup
 ```
